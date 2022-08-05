@@ -18,10 +18,10 @@
   align-items: center;
 
   img {
-    height: 60px;
+    height: 45px;
 
     @media screen and (min-width: 2000px) {
-      height: 80px;
+      height: 60px;
     }
   }
 }
@@ -48,7 +48,6 @@
 
     a {
       color: var(--gray-color);
-      font-size: 1rem;
       text-decoration: none;
       flex-direction: column;
       text-transform: uppercase;
